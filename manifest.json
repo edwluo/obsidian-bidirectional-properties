@@ -1,0 +1,10 @@
+{
+  "id": "bidirectional-properties",
+  "name": "Bidirectional Properties",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Automatically sync bidirectional relationships in frontmatter (up/down, same, next/prev)",
+  "author": "Edward Luo",
+  "authorUrl": "https://github.com/edwluo",
+  "isDesktopOnly": false
+}
